@@ -1,0 +1,37 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "SiTemporal",
+      "LiImage",
+      "TiHomePlus",
+      "TiMapOff",
+      "TiAsset"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsInNotesEnabled": true
+  },
+  "Assets": {
+    "iconName": "TiAsset",
+    "inheritanceIcon": "TiAsset"
+  },
+  "Adventures": "TiMapOff",
+  "Assets/img": "LiImage",
+  "Assets/Templates": "SiTemporal",
+  "Kieran Collins OU & Cyber Security.md": "TiHomePlus"
+}

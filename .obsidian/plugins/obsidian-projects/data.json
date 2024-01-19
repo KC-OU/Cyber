@@ -1,0 +1,108 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [
+        "templates/video.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "content",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "1547fb80-f73a-4e34-9ecf-e983940af791",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "checkField": "published",
+            "interval": "month"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "b4274814-8aff-4e3a-8121-b0ec1c25d968",
+          "name": "Schedule",
+          "type": "calendar"
+        },
+        {
+          "config": {
+            "groupByField": "status"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "4de7fb63-d847-471d-9648-1a9cae67616c",
+          "name": "Kanban",
+          "type": "board"
+        },
+        {
+          "config": {
+            "coverField": "cover"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "46913f39-bf61-4a6d-b45a-fc39451e2956",
+          "name": "Thumbnail",
+          "type": "gallery"
+        }
+      ],
+      "name": "Content Calendar",
+      "id": "4dc49acc-ca9a-4b29-b62c-408a6ef35812"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

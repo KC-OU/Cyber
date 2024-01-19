@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "35dc58889efc7af6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6dfaf6b75e0401c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8825d69b18f39e3e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "40523b5d64846a25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CyberScribe.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef2fa061dc384dbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "776915f0f047e046",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2911de48d50d504c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f7191f1a02d83b6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#sensitive-information",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9a9809b325d9af74",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "6da38734e1b60552",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.5
+  },
+  "right": {
+    "id": "4376769ea3073bd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "09384058bb1c4e72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01866bcbc2fd8a19",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CyberScribe.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "505cdf32bf6b016b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CyberScribe.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e0476cfc571d360e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "734965fc2bb6a962",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CyberScribe.md"
+              }
+            }
+          },
+          {
+            "id": "89c85e720490d000",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6b52ef859937ef99",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "a010df59de52e7ba",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "publish:Publish changes...": false,
+      "graph:Open graph view": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-custom-frames:Open Obsidian Forum": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "dbfolder:Create a new database table": false,
+      "hide-folders:Show hidden folders": false,
+      "obsidian-projects:Open projects": false
+    }
+  },
+  "active": "40523b5d64846a25",
+  "lastOpenFiles": [
+    "The Cyber Vault.md",
+    "u.md",
+    "CyberScribe.md",
+    "Assets/img/useful-info/useful-infomation.webp",
+    "Assets/img/useful-info/useful-infomation.webp.crdownload",
+    "Assets/img/useful-info",
+    "Assets/img/New folder",
+    "Kieran Collins OU & Cyber Security.md",
+    "Cyber Security/Hack the Box/Academy/SOC/SOC.md",
+    "Cyber Security/Untitled.md",
+    "Cyber Security/Try Hack Me/THM-Compete.md",
+    "Cyber Security/Cyber Security.md",
+    "Cyber Security/Try Hack Me/THM-General.md",
+    "Cyber Security/Try Hack Me/TryHackMe Menu.md",
+    "Cyber Security/RootMe/Root Me.md",
+    "Cyber Security/VulnHub/Vuln Hub.md",
+    "THM-NETWORDS.png.md",
+    "Assets/Templates/Update Publish Files.md",
+    "Cyber Security/Hack the Box/Hack the Box Menu.md",
+    "Assets/img/Open University/TM111-Logo.webp",
+    "Assets/img/Open University/recent-created.webp",
+    "Assets/img/Open University/OU-NOTES.webp",
+    "Assets/img/Open University/OU-Assignemnts.webp",
+    "Assets/img/Open University/OPENi-UNI.webp",
+    "Assets/img/Open University/Last-Modified.webp",
+    "Assets/img/Open University/Assignents-logo.webp",
+    "Assets/img/Open University/Assignents-logo.jfif",
+    "Assets/img/Open University",
+    "Assets/Templates/Vulnhub-Machine-Template.md",
+    "Assets/Templates/TryHackMe-Machine-Template.md",
+    "Assets/Templates/Root-Me-Machine-Template.md",
+    "Assets/Templates/Hack the Box-Machine-Template.md",
+    "Assets/Templates",
+    "Assets/img/Cyber Sec/HTB/CDSA/CDSA.webp",
+    "Assets/img/Cyber Sec/HTB/CPTS/HTB-CPTS-EXAMS.webp",
+    "Assets/img/Cyber Sec/HTB/CPTS",
+    "Assets/img/Cyber Sec/HTB/CDSA",
+    "Assets/img/Cyber Sec/HTB/BBH",
+    "Assets/img/Cyber Sec/HTB",
+    "Added and Modified/Last Modified - OU.md",
+    "Added and Modified/Added Files.md",
+    "Added and Modified/Added Files - Cyber.md",
+    "Added and Modified/Last Modified - Cyber Sec.md",
+    "Open University/Open University - Assignments.md",
+    "Open University/Open University Menu.md",
+    "Open University/Open University - Course Notes.md",
+    "Untitled.canvas"
+  ]
+}
