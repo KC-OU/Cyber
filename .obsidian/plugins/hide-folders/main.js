@@ -39,7 +39,8 @@ var HideFoldersPlugin = class extends import_obsidian.Plugin {
       return;
     if (recheckPreviouslyHiddenFolders) {
       document.querySelectorAll(".obsidian-hide-folders--hidden").forEach((folder) => {
-        folder.parentElement.style.display = "";
+        folder.parentElement.style.height = "";
+        folder.parentElement.style.overflow = "";
         folder.removeClass("obsidian-hide-folders--hidden");
       });
     }
@@ -52,7 +53,8 @@ var HideFoldersPlugin = class extends import_obsidian.Plugin {
           return;
         }
         folder.addClass("obsidian-hide-folders--hidden");
-        folder.parentElement.style.display = this.settings.areFoldersHidden ? "none" : "";
+        folder.parentElement.style.height = this.settings.areFoldersHidden ? "0" : "";
+        folder.parentElement.style.overflow = this.settings.areFoldersHidden ? "hidden" : "";
       });
     });
   }
@@ -131,7 +133,7 @@ var HideFoldersPluginSettingTab = class extends import_obsidian.PluginSettingTab
   display() {
     const { containerEl } = this;
     containerEl.empty();
-    new import_obsidian.Setting(containerEl).setName("Folders to hide").setDesc("The names of the folders to hide, one per line. Either exact folder-names or endsWith::FOLDERSUFFIX").addTextArea((text) => text.setPlaceholder("attachments\nendsWith::_attachments").setValue(this.plugin.settings.attachmentFolderNames.join("\n")).onChange(async (value) => {
+    new import_obsidian.Setting(containerEl).setName("Folders to hide").setDesc("The names of the folders to hide, one per line. Either exact folder-names, startsWith::FOLDERPREFIX, or endsWith::FOLDERSUFFIX").addTextArea((text) => text.setPlaceholder("attachments\nendsWith::_attachments").setValue(this.plugin.settings.attachmentFolderNames.join("\n")).onChange(async (value) => {
       this.plugin.settings.attachmentFolderNames = value.split("\n");
       await this.plugin.saveSettings();
     }));

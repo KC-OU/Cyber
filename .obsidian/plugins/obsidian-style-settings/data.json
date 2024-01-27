@@ -6,8 +6,10 @@
   "ITS-AT@@notion": false,
   "ITS-AT@@mini": false,
   "ITS-AT@@its-d": false,
-  "ITS-AT@@select": "wotc-beyond",
+  "ITS-AT@@select": "dnd",
   "ITS@@justified": true,
   "ITS@@s-d": false,
-  "ITS@@select": "wotc-beyond"
+  "ITS@@select": "wotc-beyond",
+  "encore-settings@@theme-dark": "encore-theme-dark-obsidian",
+  "encore-settings@@theme-light": "encore-theme-light-sterling"
 }

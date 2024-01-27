@@ -2,7 +2,8 @@
 tags:
   - HTB
 ---
-> [!infobox]+ Collapsible Infobox
+
+<!-- > [!infobox]+ Collapsible Infobox
 > # HTB Certified Penetration Testing Specialist
 > ![[HTB-CPTS-EXAMS.webp|cover hsmall]]
 > # Sections 
@@ -14,7 +15,9 @@ tags:
 ># HTB Certified Defensive Security Analyst
 >![[CSDA logo.webp|cover hsmall]]
 > # Sections 
-> --------- 
+
+---
+-->
 # Exams
 
 ### The Box offers two certifications:

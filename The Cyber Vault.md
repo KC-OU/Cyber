@@ -35,6 +35,33 @@ The demand for skilled incident response professionals is rapidly increasing as 
 
 ## Links to resources
 
-[Ippsec](https://ippsec.rocks/)
+### Docmentation
 
-[Hack Tricks](http://book.hacktricks.xyz)
+- [Ippsec](https://ippsec.rocks/)
+
+- [Hack Tricks](http://book.hacktricks.xyz)
+
+### Learning Grounds
+
+- [hackthebox](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.hackthebox.eu%2F&data=05%7C01%7Cgeorgina.hawkins%40open.ac.uk%7Cc3d8ca8cfb2a4eebe07608dae1b20c5f%7C0e2ed45596af4100bed3a8e5fd981685%7C0%7C0%7C638070453121528049%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=YW4awCxoGyabMqJZNgUeWUuUHZZ2AebY%2FQGrufHwtjQ%3D&reserved=0)
+
+- [tryhackme](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftryhackme.com%2F&data=05%7C01%7Cgeorgina.hawkins%40open.ac.uk%7Cc3d8ca8cfb2a4eebe07608dae1b20c5f%7C0e2ed45596af4100bed3a8e5fd981685%7C0%7C0%7C638070453121528049%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=AUUCnJD6b2xP7KKUczJmjbA%2Brh%2B2rfeGQp%2FwrcvMcgA%3D&reserved=0)
+
+- [blueteamlabs](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fblueteamlabs.online%2F&data=05%7C01%7Cgeorgina.hawkins%40open.ac.uk%7Cc3d8ca8cfb2a4eebe07608dae1b20c5f%7C0e2ed45596af4100bed3a8e5fd981685%7C0%7C0%7C638070453121528049%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=gOhDV6OwEONufWtREiM1bgCKl9vQz9lNu0tLgVJcXAc%3D&reserved=0)
+
+- [picoctf.org](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpicoctf.org%2F&data=05%7C01%7Cgeorgina.hawkins%40open.ac.uk%7Cc3d8ca8cfb2a4eebe07608dae1b20c5f%7C0e2ed45596af4100bed3a8e5fd981685%7C0%7C0%7C638070453121684244%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=Jt8zdM2zQAdU29YOwiAZ2MG3K7mwu1UB%2Beh06LeiMHo%3D&reserved=0)
+
+- [attackdefense](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fattackdefense.com%2F&data=05%7C01%7Cgeorgina.hawkins%40open.ac.uk%7Cc3d8ca8cfb2a4eebe07608dae1b20c5f%7C0e2ed45596af4100bed3a8e5fd981685%7C0%7C0%7C638070453121684244%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=%2BeMI6g0785kCSX9GENbt33h4OdYR32Gprd%2B3sROvuJc%3D&reserved=0)
+
+- [exploit.education](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fexploit.education%2F&data=05%7C01%7Cgeorgina.hawkins%40open.ac.uk%7Cc3d8ca8cfb2a4eebe07608dae1b20c5f%7C0e2ed45596af4100bed3a8e5fd981685%7C0%7C0%7C638070453121684244%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=PuSPNOlggrCwIHQOELED4hC7J15NHPIQd9JmE7m14vE%3D&reserved=0)
+
+- [cryptohack](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcryptohack.org%2F&data=05%7C01%7Cgeorgina.hawkins%40open.ac.uk%7Cc3d8ca8cfb2a4eebe07608dae1b20c5f%7C0e2ed45596af4100bed3a8e5fd981685%7C0%7C0%7C638070453121684244%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=DMxpaLd2h35VKDYFtgUTFpOT9iKj%2FGnj2Qfpfe2EQdA%3D&reserved=0)
+
+- [defendtheweb](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdefendtheweb.net%2F&data=05%7C01%7Cgeorgina.hawkins%40open.ac.uk%7Cc3d8ca8cfb2a4eebe07608dae1b20c5f%7C0e2ed45596af4100bed3a8e5fd981685%7C0%7C0%7C638070453121684244%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=59%2B12ZNKSm3xS4lWRhUEHwB4Txa9bA60HiisLFAtLwY%3D&reserved=0)
+
+- [Vulnhub](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.vulnhub.com%2F&data=05%7C01%7Cgeorgina.hawkins%40open.ac.uk%7Cc3d8ca8cfb2a4eebe07608dae1b20c5f%7C0e2ed45596af4100bed3a8e5fd981685%7C0%7C0%7C638070453121684244%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=S1yVX7oLkqzp%2Bp25UGaarXj3menQijuqwlsBNFU2tMI%3D&reserved=0)
+
+
+### Tools
+
+-  [Kali Tools](https://www.kali.org/tools/)

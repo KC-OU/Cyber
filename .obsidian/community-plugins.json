@@ -1,5 +1,4 @@
 [
-  "obsidian-excel-to-markdown-table",
   "templater-obsidian",
   "obsidian-timelines",
   "obsidian-custom-frames",
@@ -12,7 +11,6 @@
   "obsidian-admonition",
   "obsidian-excalidraw-plugin",
   "obsidian-import-json",
-  "folder-note-plugin",
   "obsidian-style-settings",
   "obsidian42-brat",
   "obsidian-text-format",
@@ -25,7 +23,6 @@
   "obsidian-icons-plugin",
   "obsidian-icon-shortcodes",
   "gemmy_ttrpg",
-  "OA-file-hider",
   "homepage",
   "obsidian-dictionary-plugin",
   "obsidian-advanced-slides",
@@ -34,12 +31,10 @@
   "cycle-through-panes",
   "cm-editor-syntax-highlight-obsidian",
   "excalibrain",
-  "hide-folders",
   "quickadd",
   "obsidian-projects",
   "obsidian-outliner",
   "obsidian-show-file-path",
   "settings-search",
-  "obsidian-vault-statistics-plugin",
   "url-into-selection"
 ]
