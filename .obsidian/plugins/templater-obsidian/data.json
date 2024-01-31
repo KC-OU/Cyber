@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "Assets/Templates",
+  "templates_folder": "Assets/z_Templates",
   "templates_pairs": [
     [
       "",

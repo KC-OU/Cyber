@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiNote",
+      "SiCyberdefenders",
       "SiTemporal",
       "LiImage",
-      "TiHomePlus",
-      "TiMapOff",
-      "TiAsset"
+      "TiHomePlus"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -36,8 +36,9 @@
     "iconIdentifier": ":"
   },
   "Adventures": "TiMapOff",
-  "Assets/img": "LiImage",
-  "Assets/Templates": "SiTemporal",
   "Kieran Collins OU & Cyber Security.md": "TiHomePlus",
-  "Assets": "TiAsset"
+  "Assets": "TiAsset",
+  "Cyber Security": "SiCyberdefenders",
+  "CyberScribe": "TiNote",
+  "Assets/z_Templates": "SiTemporal"
 }

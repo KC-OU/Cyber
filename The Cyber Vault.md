@@ -22,6 +22,8 @@ Moreover, incident response professionals play a crucial role in developing and 
 
 The demand for skilled incident response professionals is rapidly increasing as organizations recognize the importance of a robust incident response capability. This path offers exciting career opportunities for individuals who are passionate about protecting digital assets and responding to emerging cyber threats.
 
+---
+
 > [!kanban|c-orange]+ Cyber Security Learning
 > - [[Hack the Box Menu|Hack the Box]]
 > 	- ![[Hack the Box.webp|220]]
@@ -31,7 +33,7 @@ The demand for skilled incident response professionals is rapidly increasing as 
 > 	- ![[rootme.svg|center|140]]
 > - [[Vuln Hub]]
 > 	- ![[vulnhub.webp|center|140]]
-> - [[Offsec-Proving Grounds]]
+> - [[Offsec]]
 > 	- ![[offsec-proving-ground.webp|center|130]]
 > - [[CyberScribe]]
 >     - ![[useful-infomation.webp|220]]
