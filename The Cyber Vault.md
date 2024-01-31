@@ -1,5 +1,8 @@
 ![[cyber-mainpage.webp|banner]]
-# Introduction
+
+# Cyber Vault
+
+## Introduction
 
 Cyber Security Learning is an essential field of study in today's #digital age. It focuses on understanding and mitigating the risks associated with cyber threats and protecting #sensitive-information from #unauthorised-access, #theft, and #manipulation.
 
@@ -19,7 +22,7 @@ Moreover, incident response professionals play a crucial role in developing and 
 
 The demand for skilled incident response professionals is rapidly increasing as organizations recognize the importance of a robust incident response capability. This path offers exciting career opportunities for individuals who are passionate about protecting digital assets and responding to emerging cyber threats.
 
-> [!kanban|c-orange]+
+> [!kanban|c-orange]+ Cyber Security Learning
 > - [[Hack the Box Menu|Hack the Box]]
 > 	- ![[Hack the Box.webp|220]]
 > - [[TryHackMe Menu|Try Hack Me]]
@@ -28,20 +31,24 @@ The demand for skilled incident response professionals is rapidly increasing as 
 > 	- ![[rootme.svg|center|140]]
 > - [[Vuln Hub]]
 > 	- ![[vulnhub.webp|center|140]]
+> - [[Offsec-Proving Grounds]]
+> 	- ![[offsec-proving-ground.webp|center|130]]
 > - [[CyberScribe]]
 >     - ![[useful-infomation.webp|220]]
 
 ---
 
-## Links to resources
+###  Links to resources
 
-### Docmentation
+#### Docmentation
 
 - [Ippsec](https://ippsec.rocks/)
 
 - [Hack Tricks](http://book.hacktricks.xyz)
 
-### Learning Grounds
+- [Hack Tricks - Cloud](https://cloud.hacktricks.xyz/) 
+
+#### Learning Grounds
 
 - [hackthebox](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.hackthebox.eu%2F&data=05%7C01%7Cgeorgina.hawkins%40open.ac.uk%7Cc3d8ca8cfb2a4eebe07608dae1b20c5f%7C0e2ed45596af4100bed3a8e5fd981685%7C0%7C0%7C638070453121528049%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=YW4awCxoGyabMqJZNgUeWUuUHZZ2AebY%2FQGrufHwtjQ%3D&reserved=0)
 
@@ -62,6 +69,6 @@ The demand for skilled incident response professionals is rapidly increasing as 
 - [Vulnhub](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.vulnhub.com%2F&data=05%7C01%7Cgeorgina.hawkins%40open.ac.uk%7Cc3d8ca8cfb2a4eebe07608dae1b20c5f%7C0e2ed45596af4100bed3a8e5fd981685%7C0%7C0%7C638070453121684244%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=S1yVX7oLkqzp%2Bp25UGaarXj3menQijuqwlsBNFU2tMI%3D&reserved=0)
 
 
-### Tools
+#### Tools
 
 -  [Kali Tools](https://www.kali.org/tools/)

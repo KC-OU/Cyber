@@ -1,4 +1,7 @@
-  
+![[cyber-scribe-banner.webp | banner]]
+
+# Cyber Scribe
+
 Taking detailed notes on commands for cybersecurity is an indispensable practice for any aspiring or seasoned cybersecurity professional. These notes serve as a valuable reference guide, aiding in quick problem-solving, #troubleshooting, and ensuring a systematic approach to #security tasks. Here's a deeper exploration of why note-taking on #cybersecurity #commands is crucial.
 
 Firstly, note-taking provides a structured repository of essential commands, organized in a way that aligns with different aspects of cybersecurity. Categories can include #networking and #system-commands, #security #scanning-tools, #file-system and permission management, password and #authentication-related commands, #firewall-configurations, and incident response procedures. This categorization allows practitioners to swiftly locate and apply the relevant commands based on the specific security task at hand.
@@ -14,7 +17,31 @@ Additionally, note-taking fosters a mindset of continuous improvement and learni
 In conclusion, taking notes on commands for cybersecurity is not just a pragmatic habit; it's a strategic investment in professional development and operational efficiency. These notes serve as a navigational tool in the vast landscape of cybersecurity, helping practitioners build expertise, collaborate effectively, minimize errors, and adapt to the ever-evolving nature of #cyber-threats.
 
 ---
+> [!column|list] Hacking and pentesting, command notes
+> - Linux
+> 	- [Linux PrivEsc](Linux%20PrivEsc.md)
+> 	- Linux Commands
+> - MacOS
+> 	- Privilege Escalation
+> 	- MacOS  Commands
+> - Windows
+> 	- Privilege Escalation 
+> 	- Windows Commands
+> - Mobile
+> 	- Android application 
+> 	- iOS pentesting 
+> - Network Services
+> 	- Printers
+> 	- VoIP
+> 	- SAP
+> - Hardware/physical access
+> 	- Escaping form KIOSK
+> 	- Physical Attack
 
+---
+> [!column|list] Open University - Cyber Security (TM256)
+> - Module
+>     - [Glossary](TM256-Glossary.md)
 ### Links
 
 - [Kali Tools](https://www.kali.org/tools/)

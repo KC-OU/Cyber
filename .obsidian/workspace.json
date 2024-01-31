@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "edcf691b0eb3bdbd",
+        "id": "6583b005e6faedf9",
         "type": "tabs",
         "children": [
           {
-            "id": "225b4a32f2c64077",
+            "id": "22948f54d63f7ca3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 281.5,
+    "collapsed": true
   },
   "right": {
     "id": "4376769ea3073bd6",
@@ -193,25 +194,33 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "2911de48d50d504c",
+  "active": "22948f54d63f7ca3",
   "lastOpenFiles": [
-    "publish.css",
+    "Assets/img/Cyber Sec/Offsec/offsec-proving-ground.webp",
+    "Assets/img/Cyber Sec/Offsec",
+    "Assets/img/Cyber Sec/OFsec",
     "CyberScribe.md",
     "The Cyber Vault.md",
+    "CyberScribe/TM256-Glossary.md",
+    "Assets/PDF",
+    "Assets/Untitled.md",
+    "Assets/PDF/Glossaries _ OU online.pdf",
+    "CyberScribe/Linux PrivEsc.md",
+    "Assets/img/Linux-PrivEsc-banner.webp",
+    "Assets/img/Linux-PrivEsc-banner.webp.crdownload",
+    "Assets/img/cyber-scribe-banner.webp",
+    "Assets/img/cyber-scribe-banner.webp.crdownload",
+    "Assets/img/cyber-mainpage.webp",
+    "CyberScribe",
+    "publish.css",
     "Assets/snippets/S - Image Adjustments.css",
     "Assets/snippets/Minimal_Circle.css",
-    "Assets/snippets/ITS Alternative Theme.css",
-    "Assets/snippets/FantasyFonts.css",
-    "Assets/snippets",
     "Cyber Security/Hack the Box/Academy/Academy-Exams.md",
     "Cyber Security/Hack the Box/Academy/Academy-Modules.md",
     "Cyber Security/Hack the Box/Academy/SOC/Hack the Box SOC.md",
     "2024-01-21.md",
     "u.md",
     "Assets/img/useful-info/useful-infomation.webp",
-    "Assets/img/useful-info/useful-infomation.webp.crdownload",
-    "Assets/img/useful-info",
-    "Assets/img/New folder",
     "Kieran Collins OU & Cyber Security.md",
     "Cyber Security/Untitled.md",
     "Cyber Security/Try Hack Me/THM-Compete.md",
@@ -229,18 +238,10 @@
     "Assets/img/Open University/OU-Assignemnts.webp",
     "Assets/img/Open University/OPENi-UNI.webp",
     "Assets/img/Open University/Last-Modified.webp",
-    "Assets/img/Open University/Assignents-logo.webp",
-    "Assets/img/Open University/Assignents-logo.jfif",
-    "Assets/img/Open University",
     "Assets/Templates/Vulnhub-Machine-Template.md",
     "Assets/Templates/TryHackMe-Machine-Template.md",
     "Assets/Templates/Root-Me-Machine-Template.md",
     "Assets/Templates/Hack the Box-Machine-Template.md",
-    "Assets/img/Cyber Sec/HTB/CDSA/CDSA.webp",
-    "Assets/img/Cyber Sec/HTB/CPTS/HTB-CPTS-EXAMS.webp",
-    "Added and Modified/Last Modified - OU.md",
-    "Added and Modified/Added Files.md",
-    "Added and Modified/Added Files - Cyber.md",
     "Untitled.canvas"
   ]
 }
