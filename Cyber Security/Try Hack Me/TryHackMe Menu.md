@@ -23,4 +23,4 @@ tags:
 ## Try Hack Me - Compete
 > [!kanban|c-blue]+
 > - [[THM-Compete|Compete]]
-> 	- ![[THM-Compete.jpg|225]]
+> 	- ![[THM-Compete.webp|225]]

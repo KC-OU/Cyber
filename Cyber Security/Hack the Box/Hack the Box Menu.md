@@ -3,7 +3,7 @@ tags:
   - CyberSec
 ---
 
-![[banner.png|banner]]
+![[banner.webp|banner]]
 
 ## Hack the Box
 > [!kanban|c-green]+

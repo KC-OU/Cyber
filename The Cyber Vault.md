@@ -2,8 +2,7 @@
 
 # Cyber Vault
 
-## Introduction
-
+## Introduction 
 Cyber Security Learning is an essential field of study in today's #digital age. It focuses on understanding and mitigating the risks associated with cyber threats and protecting #sensitive-information from #unauthorised-access, #theft, and #manipulation.
 
 There are various paths one can take to delve into the world of Cyber Security Learning. Here are a few examples:

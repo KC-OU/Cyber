@@ -1,26 +1,11 @@
 
-<% await tp.file.move("/Cyber Security/Offsec/Proving Ground/" + tp.file.title) %>
-
-<%*
-const hasTitle = !tp.file.title.startsWith("NewNPC");
-let title;
-if (!hasTitle) {
-    title = await tp.system.prompt("Enter NPC Name");
-    await tp.file.rename(title);
-} else {
-    title = tp.file.title;
-}
-_%>
 
 
-# `=this.file.name`
-
-
-
+# PwnLab
 
 <!-- PLEASE CHANGE Information in the box for Difficulty, Points, Category and Tools Used -->
 > [!infobox]+ Collapsible Infobox 
-> #  `=this.file.name`
+> # PwnLab
 > ![[ImagePlaceholder.png|cover hsmall]]
 >  ###### Difficulty and Points
 > | Difficulty | Points |

@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d353e4565a56a9d5",
+        "id": "c274803569aa80ef",
         "type": "tabs",
         "children": [
           {
-            "id": "d331368598431808",
+            "id": "bbe3b5d93c81cf39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security/Hack the Box/Academy/Academy-Exams.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d8b6d0e78778a38d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +30,17 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "29aa92a00e33d68b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,7 +197,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "publish:Publish changes...": false,
-      "homepage:Open homepage": false,
       "command-palette:Open command palette": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -184,17 +204,38 @@
       "graph:Open graph view": false,
       "templater-obsidian:Templater": false,
       "obsidian-custom-frames:Open Obsidian Forum": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-projects:Open projects": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-import-json:JSON/CSV Importer": false,
-      "dbfolder:Create a new database table": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-projects:Open projects": false
     }
   },
-  "active": "d331368598431808",
+  "active": "d8b6d0e78778a38d",
   "lastOpenFiles": [
+    "Assets/img/Cyber Sec/Offsec/offsec-proving-ground.webp",
+    "The Cyber Vault.md",
+    "Cyber Security/Offsec/Offsec.md",
+    "Cyber Security/Offsec/Proving Ground/Untitled 1.md",
+    "Cyber Security/Offsec/Proving Ground/PwnLab.md",
+    "Cyber Security/VulnHub/Vuln Hub.md",
+    "Cyber Security/RootMe/Root Me.md",
+    "Cyber Security/Try Hack Me/TryHackMe Menu.md",
+    "Cyber Security/Try Hack Me/THM-Learning Paths.md",
+    "Cyber Security/Try Hack Me/THM-Compete.md",
+    "Cyber Security/Try Hack Me/THM-General.md",
+    "Cyber Security/Hack the Box/Academy/Academy-Exams.md",
+    "Cyber Security/Hack the Box/Hack the Box Menu.md",
+    "CyberScribe.md",
+    "Untitled.md",
+    "Assets/z_Templates/Template for Offsec-ProvingGround.md",
+    "Cyber Security/Offsec/Proving Ground/Brad.md",
+    "sample-penetration-testing-report-template.md",
+    "PNTYUUUU.md",
+    "Assets/Untitled.md",
     "Assets/img/Cyber Sec/ImagePlaceholder.png",
     "Assets/img/Cyber Sec/cheatsheet/Nikto/nikto-logo.svg",
     "Assets/img/Cyber Sec/cheatsheet/Metasploit/Metasploit.webp",
@@ -208,7 +249,6 @@
     "Assets/img/Cyber Sec/cheatsheet/Metasploit",
     "Assets/img/Cyber Sec/cheatsheet/John",
     "Assets/img/Cyber Sec/VulnHub/vulnhub.webp",
-    "Assets/img/Cyber Sec/VulnHub/VHUB - BANNER.webp",
     "Assets/img/Cyber Sec/HTB/CPTS",
     "Assets/img/Cyber Sec/HTB/CDSA",
     "Assets/img/Cyber Sec/HTB/BBH",
@@ -216,31 +256,12 @@
     "Assets/img/Cyber Sec/cheatsheet",
     "Assets/img/Cyber Sec/VulnHub",
     "Assets/img/Cyber Sec/THM",
-    "CyberScribe.md",
     "Cyber Security/Offsec/Proving Ground/Untitled hello.md",
-    "Offsec.md",
-    "Assets/z_Templates/Template for Offsec-ProvingGround.md",
-    "The Cyber Vault.md",
     "CyberScribe/TM256-Glossary.md",
-    "Assets/Untitled.md",
     "CyberScribe/Linux PrivEsc.md",
-    "Cyber Security/Hack the Box/Academy/Academy-Exams.md",
     "Cyber Security/Hack the Box/Academy/Academy-Modules.md",
     "Cyber Security/Hack the Box/Academy/SOC/Hack the Box SOC.md",
     "2024-01-21.md",
-    "u.md",
-    "Kieran Collins OU & Cyber Security.md",
-    "Cyber Security/Untitled.md",
-    "Cyber Security/Try Hack Me/THM-Compete.md",
-    "Cyber Security/Cyber Security.md",
-    "Cyber Security/Try Hack Me/THM-General.md",
-    "Cyber Security/Try Hack Me/TryHackMe Menu.md",
-    "Cyber Security/RootMe/Root Me.md",
-    "Cyber Security/VulnHub/Vuln Hub.md",
-    "THM-NETWORDS.png.md",
-    "Assets/Templates/Update Publish Files.md",
-    "Cyber Security/Hack the Box/Hack the Box Menu.md",
-    "Assets/Templates/Vulnhub-Machine-Template.md",
     "Untitled.canvas"
   ]
 }
